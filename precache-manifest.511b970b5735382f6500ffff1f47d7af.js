@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d8e3d82761a6eebaef8b6adfe76b163",
+    "revision": "1a2995c3c14bb219ba89a007a282bd10",
     "url": "/gitvladi/index.html"
   },
   {
-    "revision": "26935b07820effe754ad",
+    "revision": "dfaa67441288063365b1",
     "url": "/gitvladi/static/css/2.e6a0250e.chunk.css"
   },
   {
-    "revision": "7626eaffa0f195367b49",
-    "url": "/gitvladi/static/css/main.034f58c7.chunk.css"
+    "revision": "f6916712b09d3823acaa",
+    "url": "/gitvladi/static/css/main.ab03d159.chunk.css"
   },
   {
-    "revision": "26935b07820effe754ad",
-    "url": "/gitvladi/static/js/2.31addd94.chunk.js"
+    "revision": "dfaa67441288063365b1",
+    "url": "/gitvladi/static/js/2.8d10a6a2.chunk.js"
   },
   {
     "revision": "ffd5d3516f69e038f3ee00243438cdbc",
-    "url": "/gitvladi/static/js/2.31addd94.chunk.js.LICENSE.txt"
+    "url": "/gitvladi/static/js/2.8d10a6a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6c4fdc974879f45048c",
-    "url": "/gitvladi/static/js/3.2615a57b.chunk.js"
+    "revision": "f6916712b09d3823acaa",
+    "url": "/gitvladi/static/js/main.f4c3aee6.chunk.js"
   },
   {
-    "revision": "7626eaffa0f195367b49",
-    "url": "/gitvladi/static/js/main.4c712c2a.chunk.js"
-  },
-  {
-    "revision": "724309d6b96e15a21ea9",
-    "url": "/gitvladi/static/js/runtime-main.9f9da003.js"
+    "revision": "c6f27a9f50d3c457e89f",
+    "url": "/gitvladi/static/js/runtime-main.303b969f.js"
   },
   {
     "revision": "1be206d892519d1ecb0e5941015754a1",
