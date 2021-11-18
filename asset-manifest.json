@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/gitvladi/static/css/main.034f58c7.chunk.css",
-    "main.js": "/gitvladi/static/js/main.dbee7118.chunk.js",
-    "main.js.map": "/gitvladi/static/js/main.dbee7118.chunk.js.map",
-    "runtime-main.js": "/gitvladi/static/js/runtime-main.025f2eb7.js",
-    "runtime-main.js.map": "/gitvladi/static/js/runtime-main.025f2eb7.js.map",
+    "main.js": "/gitvladi/static/js/main.4c712c2a.chunk.js",
+    "main.js.map": "/gitvladi/static/js/main.4c712c2a.chunk.js.map",
+    "runtime-main.js": "/gitvladi/static/js/runtime-main.9f9da003.js",
+    "runtime-main.js.map": "/gitvladi/static/js/runtime-main.9f9da003.js.map",
     "static/css/2.e6a0250e.chunk.css": "/gitvladi/static/css/2.e6a0250e.chunk.css",
-    "static/js/2.e6829e49.chunk.js": "/gitvladi/static/js/2.e6829e49.chunk.js",
-    "static/js/2.e6829e49.chunk.js.map": "/gitvladi/static/js/2.e6829e49.chunk.js.map",
-    "static/js/3.918d6cbe.chunk.js": "/gitvladi/static/js/3.918d6cbe.chunk.js",
-    "static/js/3.918d6cbe.chunk.js.map": "/gitvladi/static/js/3.918d6cbe.chunk.js.map",
+    "static/js/2.31addd94.chunk.js": "/gitvladi/static/js/2.31addd94.chunk.js",
+    "static/js/2.31addd94.chunk.js.map": "/gitvladi/static/js/2.31addd94.chunk.js.map",
+    "static/js/3.2615a57b.chunk.js": "/gitvladi/static/js/3.2615a57b.chunk.js",
+    "static/js/3.2615a57b.chunk.js.map": "/gitvladi/static/js/3.2615a57b.chunk.js.map",
     "index.html": "/gitvladi/index.html",
-    "precache-manifest.b78e846fb2adcf98e06ac5a70c136e89.js": "/gitvladi/precache-manifest.b78e846fb2adcf98e06ac5a70c136e89.js",
+    "precache-manifest.e4abf999e7cd2b887bae75a75126d948.js": "/gitvladi/precache-manifest.e4abf999e7cd2b887bae75a75126d948.js",
     "service-worker.js": "/gitvladi/service-worker.js",
     "static/css/2.e6a0250e.chunk.css.map": "/gitvladi/static/css/2.e6a0250e.chunk.css.map",
     "static/css/main.034f58c7.chunk.css.map": "/gitvladi/static/css/main.034f58c7.chunk.css.map",
-    "static/js/2.e6829e49.chunk.js.LICENSE.txt": "/gitvladi/static/js/2.e6829e49.chunk.js.LICENSE.txt",
+    "static/js/2.31addd94.chunk.js.LICENSE.txt": "/gitvladi/static/js/2.31addd94.chunk.js.LICENSE.txt",
     "static/media/plugins.css": "/gitvladi/static/media/themify.e23a7dca.ttf",
     "static/media/adv.jpg": "/gitvladi/static/media/adv.c8499f4f.jpg",
     "static/media/adv1.jpg": "/gitvladi/static/media/adv1.0c1e07fb.jpg",
@@ -77,10 +77,10 @@
     "static/media/thum4.jpg": "/gitvladi/static/media/thum4.f6408939.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.025f2eb7.js",
+    "static/js/runtime-main.9f9da003.js",
     "static/css/2.e6a0250e.chunk.css",
-    "static/js/2.e6829e49.chunk.js",
+    "static/js/2.31addd94.chunk.js",
     "static/css/main.034f58c7.chunk.css",
-    "static/js/main.dbee7118.chunk.js"
+    "static/js/main.4c712c2a.chunk.js"
   ]
 }
