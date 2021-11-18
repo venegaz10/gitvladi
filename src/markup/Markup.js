@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
 
 import Index1 from './Pages/Index1';
 import Index2 from './Pages/Index2';
@@ -52,12 +53,12 @@ import Contact2 from './Pages/Contact2';
 
 
 
-class Markup extends Component{
+const Markup = () => {
 	
-	render(){
-		return(
-			<BrowserRouter basename='/react'>
-				<Switch>
+			return(
+				<BrowserRouter>
+			{/*<BrowserRouter basename='/react'>*/}
+				<Routes>
 					<Route path='/' exact component={Index1} />
 					<Route path='/index-2' exact component={Index2} />
 					<Route path='/about-1' exact component ={About} />
@@ -107,11 +108,10 @@ class Markup extends Component{
 				
 					
 					
-				</Switch>
+				</Routes>
 			</ BrowserRouter>
 		)
 		
-	}
 }
 
 export default Markup;
