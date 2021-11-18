@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './css/plugins.css';
+import './css/style.css';
+import './css/templete.css';
+import './css/skin/skin-1.css'; 
+
+
+ 
+
+import Markup from './markup/Markup';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> por fin subira.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Dany El perro
-        </a>
-      </header>
+		<Markup />
     </div>
   );
 }
